@@ -5,7 +5,7 @@ function Nav() {
   return (
     <nav>
       <a href="/">
-        <img src={logo}></img>
+        <img src={logo} alt="logo" />
       </a>
 
       <ul>
